@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8696253385",
+    "project_id": "instafollowapi-c80de",
+    "storage_bucket": "instafollowapi-c80de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8696253385:android:dc6bf58bc8205c59697618",
+        "android_client_info": {
+          "package_name": "com.example.instagram_rapid_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQVU5kSMGE5ooO5fPBMMnWGEpMwa5ArZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
